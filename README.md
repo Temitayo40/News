@@ -14,7 +14,7 @@ The aim of this project is to develop the Netflix Home Webpage . The contents ar
   
 
 ## Live demo
-[Live Demo Link](https://github.com/Temitayo40/youtube-/commit/f74d81ca8d73e84cca79813a0589ac602c76050f)
+[Live Demo Link](https://rawcdn.githack.com/Temitayo40/netflix/da9556dde0d1f723ea51772a5c5b728abdc2530f/index.html)
 
 ## Getting started
 **I created a website a cloned from Netflix Home page. The design specifications were gotten from [ordinproject.com](https://www.ordinsproject.com). The project consist of one working pages (including navigation bar, body and footer) with a display of system view**
